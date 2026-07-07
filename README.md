@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Face Recognition Video Monitoring System" width="100%">
+</p>
+
+
 # Real-Time Face Recognition Monitoring System
 
 Diploma project: an end-to-end video monitoring system that detects people in a live camera stream, identifies known faces, validates liveness, and exposes the result to Windows and Android clients.
