@@ -1,0 +1,83 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+venv311/
+ENV/
+env/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+build/
+dist/
+release/
+*.egg-info/
+*.spec~
+
+# IDE/editor files
+.idea/
+.vscode/
+*.iml
+
+# Local credentials and tokens
+credentials/
+credentials.json
+token.json
+fcm-service-account.json
+google-services.json
+local.properties
+*.key
+*.pem
+*.p12
+
+# Generated/private model data
+models/*.pkl
+models/device_tokens.json
+
+# Local/private datasets
+dataset/*
+!dataset/.gitkeep
+faces/
+mixed_faces/
+
+# Recordings generated locally
+recordings/
+
+# Android build outputs
+android/**/.gradle/
+android/**/build/
+android/**/.idea/
+android/**/local.properties
+android/**/google-services.json
+
+# LaTeX source/build artifacts
+template documentatie latex/
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.synctex.gz
+*.toc
+
+# Codex/local automation artifacts
+.agents/
+.codex/
+outputs/
+_temp*/
