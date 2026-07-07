@@ -18,9 +18,9 @@ The project was designed to run locally on a laptop, without requiring cloud inf
 
 The `demo/` folder contains three short demonstration videos:
 
-- `demo_1_windows_live.mp4`: live Windows monitoring flow.
-- `demo_2_detection_flow.mp4`: detection and recognition flow.
-- `demo_3_liveness_or_mobile.mp4`: liveness/mobile-related demonstration.
+- `Video_aplicatie_windows_demonstratie.mp4`: live Windows app flow.
+- `sistem_complet.mp4`: detection and recognition flow.
+- `videoclip_demonstratie_Android.mp4`: live Android app flow.
 
 ## Documentation
 
